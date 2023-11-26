@@ -1,7 +1,7 @@
 # imagePreproc
 Old image preprocessing scripts (basic and fractal filtration)
 
-This is an old realisation of different filtrating funcs:
+This is an old implementation of different filtrating functions:
   - Amplitude filtration
   - Max amplitude filtration
   - Roberts filter
@@ -20,4 +20,6 @@ Moreover, there you can find filtrations based on different methods counting loc
   - Modified mass-radius relation
 
 
-Existing funcs and methods are in serious need to rewrite.
+Existing functions and methods are in serious need to rewrite.
+
+Main code wasn't updated to reworked coloring methods.
