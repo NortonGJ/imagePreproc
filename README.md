@@ -11,6 +11,7 @@ This is an old realisation of different filtrating funcs:
   - Canny filter
   - Deriche filter
   - Kirsch filter
+
 Moreover, there you can find filtrations based on different methods counting local fractal dimension:
   - Mass-radius relation
   - Gray box-counting
